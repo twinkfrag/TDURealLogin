@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22310.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDURealLoginModule", "TDURealLoginModule\TDURealLoginModule.csproj", "{4AAB7EFB-D5B7-49CD-BDD7-D1BAE5F7E3E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDURealLogin", "TDURealLogin\TDURealLogin.csproj", "{57B404A7-A8CC-4BD2-AA6F-163CF27E2198}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotifyIconWrap", "NotifyIconWrap\NotifyIconWrap.csproj", "{B4495867-24E9-4036-ABF0-45D50D3EFEC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketRecieve", "SocketRecieve\SocketRecieve.csproj", "{6937A9F5-A535-45D7-B979-F3E936B9B244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AAB7EFB-D5B7-49CD-BDD7-D1BAE5F7E3E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AAB7EFB-D5B7-49CD-BDD7-D1BAE5F7E3E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AAB7EFB-D5B7-49CD-BDD7-D1BAE5F7E3E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AAB7EFB-D5B7-49CD-BDD7-D1BAE5F7E3E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57B404A7-A8CC-4BD2-AA6F-163CF27E2198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B404A7-A8CC-4BD2-AA6F-163CF27E2198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B404A7-A8CC-4BD2-AA6F-163CF27E2198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B404A7-A8CC-4BD2-AA6F-163CF27E2198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4495867-24E9-4036-ABF0-45D50D3EFEC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4495867-24E9-4036-ABF0-45D50D3EFEC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4495867-24E9-4036-ABF0-45D50D3EFEC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4495867-24E9-4036-ABF0-45D50D3EFEC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6937A9F5-A535-45D7-B979-F3E936B9B244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6937A9F5-A535-45D7-B979-F3E936B9B244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6937A9F5-A535-45D7-B979-F3E936B9B244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6937A9F5-A535-45D7-B979-F3E936B9B244}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

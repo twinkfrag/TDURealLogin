@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TDURealLogin.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Dest_host" Type="System.String" Scope="User">
+      <Value Profile="(Default)">areastress.cps.im.dendai.ac.jp</Value>
+    </Setting>
+    <Setting Name="Dest_port" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4000</Value>
+    </Setting>
+    <Setting Name="name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="timespan" Type="System.TimeSpan" Scope="Application">
+      <Value Profile="(Default)">00:10:00</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
