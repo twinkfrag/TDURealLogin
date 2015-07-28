@@ -25,6 +25,5 @@
 > Managed Wifi API
 > ver 1.1 (Oct. 14th, 2007)
 > 
-> developed by Kaalen and NN  
-> coordinated by ikonst  
+> Copyright (c) 2013 Ilya Konstantinov
 > licensed under [The MIT License](https://managedwifi.codeplex.com/license)
